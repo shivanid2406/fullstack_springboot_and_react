@@ -1,7 +1,6 @@
 package com.library.entity;
 
 import javax.persistence.*;
-//import lombok.Data;
 
 @Entity
 @Table(name = "book")
